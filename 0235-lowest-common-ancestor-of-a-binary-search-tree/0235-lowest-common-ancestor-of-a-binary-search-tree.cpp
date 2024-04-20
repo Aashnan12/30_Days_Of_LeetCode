@@ -8,15 +8,24 @@
  * };
  */
 
+#pragma GCC optimize("Ofast")
+static auto _ = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 0;
+}();
+
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* curr = root;
-        while (curr != nullptr) {
-            if (p->val < curr->val && q->val < curr->val) curr = curr->left;
-            else if (p->val > curr->val && q->val > curr->val) curr = curr->right;
-            else return curr;
-        }
-        return curr;
+        while (root != nullptr)
+            if (p->val < root->val && q->val < root->val)
+                root = root->left;
+            else if (p->val > root->val && q->val > root->val)
+                root = root->right;
+            else
+                return root;
+        return nullptr;
     }
 };
