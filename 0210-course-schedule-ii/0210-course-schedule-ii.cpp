@@ -1,3 +1,6 @@
+#pragma GCC optimize("Ofast")
+static auto _ = [] () {ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);return 0;}();
+
 class Solution {
 public:
     vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
