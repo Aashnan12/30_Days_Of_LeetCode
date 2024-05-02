@@ -1,3 +1,24 @@
+#pragma GCC optimize("Ofast")
+static auto _ = [] () {ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);return 0;}();
+
+// class Solution {
+// public:
+//     bool canFinish(int n, vector<vector<int>>& adj) {
+//         unordered_map<int,vector<int>> map;
+
+//         for(vector<int> &v : adj){
+//             map[v[1]].push_back(v[0]);
+//         }
+
+//         vector<bool> inRecursion(n,0);
+//         vector<bool> vis(n,0);
+//         for(int i=0;i<n;i++){
+            
+//         }
+//     }
+// };
+
+
 class Solution {
 public:
     bool canFinish(int n, vector<vector<int>>& adj) {
