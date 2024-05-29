@@ -15,13 +15,13 @@ static auto _ = [] () {ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.ti
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        while (root != nullptr)
-            if (p->val < root->val && q->val < root->val)
-                root = root->left;
-            else if (p->val > root->val && q->val > root->val)
-                root = root->right;
-            else
-                return root;
-        return nullptr;
+        if(root == NULL || root == p || root == q) return root;
+
+        TreeNode* Left = lowestCommonAncestor(root->left,p,q);
+        TreeNode* Right = lowestCommonAncestor(root->right,p,q);
+
+        if(Left == NULL) return Right;
+        if(Right == NULL) return Left;
+        return root;
     }
 };
