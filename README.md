@@ -14,15 +14,18 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Array
 |  |
 | ------- |
