@@ -18,7 +18,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 # Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+# Array
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
