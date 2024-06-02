@@ -10,3 +10,15 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0344-reverse-string) |
+# Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
