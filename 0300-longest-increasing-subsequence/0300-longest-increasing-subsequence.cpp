@@ -28,6 +28,9 @@ public:
         return max(take,skip);
     }
     int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
+        if (n == 0 || n == 1) return n;
+
         memset(t,-1,sizeof(t));
         return solve(0,-1,nums);
     }
