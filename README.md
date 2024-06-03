@@ -19,6 +19,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
+| [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Dynamic Programming
 |  |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0322-coin-change) |
+| [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 # Stack
 |  |
 | ------- |
@@ -107,3 +109,11 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
+# Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
