@@ -17,6 +17,7 @@ public:
         int maxwater = 0;
         for(int i=0;i<n;i++){
             maxwater += min(prefix[i],suffix[i]) - arr[i];
+            cout<<maxwater<<" ";
         }
         return maxwater;
     }
