@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0344-reverse-string) |
+| [1250-longest-common-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
 |  |
@@ -26,6 +27,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 # Memoization
 |  |
