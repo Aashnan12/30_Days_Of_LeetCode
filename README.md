@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
 | [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Dynamic Programming
 |  |
@@ -102,3 +103,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
+# Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
