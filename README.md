@@ -35,8 +35,26 @@
 | ------- |
 | [0198-house-robber](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0213-house-robber-ii) |
+| [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 # Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+# Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+# Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
