@@ -17,9 +17,6 @@ public:
         if(n == 1){
             return nums[0];
         }
-        if(n == 2){
-            return max(nums[0],nums[1]);
-        }
         memset(t,-1,sizeof(t));
         int first_case = solve(0,n-1,nums);
         memset(t,-1,sizeof(t));
