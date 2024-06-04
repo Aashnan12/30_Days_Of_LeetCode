@@ -1,20 +1,20 @@
 class Solution {
 public:
     int t[401];
-    int solve(vector<int>& nums,int idx){
-        if(idx >= nums.size()){
+    int solve(int i,vector<int>& nums){
+        if(i >= nums.size()){
             return 0;
         }
-        if(t[idx] != -1){
-            return t[idx];
+        if(t[i] != -1){
+            return t[i];
         }
-        int take = nums[idx] + solve(nums,idx+2);
-        int skip = solve(nums,idx+1);
+        int take = solve(i+2,nums) + nums[i];
+        int skip = solve(i+1,nums);
 
-        return t[idx] = max(take,skip);
+        return t[i] = max(take,skip);
     }
     int rob(vector<int>& nums) {
         memset(t,-1,sizeof(t));
-        return solve(nums,0);
+        return solve(0,nums);
     }
 };
