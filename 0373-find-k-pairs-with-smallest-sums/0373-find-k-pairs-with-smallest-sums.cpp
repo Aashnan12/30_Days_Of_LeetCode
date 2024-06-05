@@ -15,8 +15,6 @@ public:
                 } else if (sum < pq.top().first) {
                     pq.pop();
                     pq.push({sum, {nums1[i], nums2[j]}});
-                } else {
-                    break;
                 }
             }
         }
