@@ -42,9 +42,7 @@ public:
         }
         while(!pq.empty()){
             k--;
-            if(k==0){
-                return pq.top();
-            }
+            if(k==0) return pq.top();
             pq.pop();
         }
         return -1;
