@@ -94,6 +94,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0322-coin-change) |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Stack
 |  |
@@ -129,6 +130,7 @@
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Counting Sort
 |  |
 | ------- |
@@ -137,8 +139,10 @@
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
