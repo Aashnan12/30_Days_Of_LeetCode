@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -125,7 +126,12 @@
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 # Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
+# Tree
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
