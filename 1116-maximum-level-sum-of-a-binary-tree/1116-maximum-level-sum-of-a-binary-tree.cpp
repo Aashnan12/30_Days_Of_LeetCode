@@ -29,7 +29,7 @@ public:
                 sum = 0;
                 if(!q.empty()) q.push(NULL);
             }
-            if(node){
+            else{
                 sum += node->val;
                 if(node->left) q.push(node->left);
                 if(node->right) q.push(node->right);
