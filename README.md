@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0344-reverse-string) |
+| [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
@@ -51,6 +52,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 # Greedy
 |  |
@@ -62,6 +64,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+| [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
 | ------- |
