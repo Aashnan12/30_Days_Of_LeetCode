@@ -55,6 +55,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 # Greedy
@@ -62,6 +63,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -70,6 +72,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
@@ -77,6 +80,7 @@
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Heap (Priority Queue)
 |  |
