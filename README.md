@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
@@ -65,6 +66,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
@@ -148,3 +150,7 @@
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0128-longest-consecutive-sequence) |
