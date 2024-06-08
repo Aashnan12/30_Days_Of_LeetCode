@@ -21,6 +21,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
+| [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Dynamic Programming
@@ -54,6 +55,7 @@
 | [0322-coin-change](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
@@ -74,6 +76,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
@@ -172,3 +175,4 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
