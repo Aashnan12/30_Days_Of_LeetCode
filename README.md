@@ -117,6 +117,7 @@
 | [0322-coin-change](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0322-coin-change) |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Stack
 |  |
@@ -154,6 +155,7 @@
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 # Counting Sort
 |  |
 | ------- |
@@ -165,12 +167,14 @@
 | [0226-invert-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Union Find
 |  |
