@@ -62,6 +62,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 # Greedy
@@ -83,6 +84,7 @@
 | [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Sorting
 |  |
@@ -92,6 +94,7 @@
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Heap (Priority Queue)
@@ -161,6 +164,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 # Tree
 |  |
 | ------- |
