@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +91,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
