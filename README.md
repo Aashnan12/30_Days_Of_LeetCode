@@ -57,6 +57,7 @@
 | [0322-coin-change](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -98,6 +100,7 @@
 | [0075-sort-colors](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -111,6 +114,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
 # Counting
 |  |
