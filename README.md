@@ -208,3 +208,11 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0021-merge-two-sorted-lists) |
