@@ -20,6 +20,7 @@
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -211,8 +212,10 @@
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 # Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0021-merge-two-sorted-lists) |
