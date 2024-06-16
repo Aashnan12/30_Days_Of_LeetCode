@@ -56,6 +56,7 @@
 | [0274-h-index](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0502-ipo) |
@@ -74,6 +75,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0621-task-scheduler) |
