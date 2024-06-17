@@ -1,20 +1,20 @@
 class Solution {
 public:
     int minPatches(vector<int>& nums, int n) {
-        long long miss = 1;
-        int result = 0;
-        size_t i = 0;
+        // Based on logic and dry run.
 
-        while (miss <= n) {
-            if (i < nums.size() && nums[i] <= miss) {
-                miss += nums[i];
+        long long patch = 0,i = 0, maxReach = 0;
+
+        while(maxReach < n){
+            if(i < nums.size() && nums[i] <= maxReach + 1){
+                maxReach += nums[i];
                 i++;
-            } else {
-                miss += miss;
-                result++;
+            }
+            else{
+                maxReach += maxReach + 1;
+                patch++;
             }
         }
-
-        return result;
+        return patch;
     }
 };
