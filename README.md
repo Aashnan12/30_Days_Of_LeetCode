@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -24,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Dynamic Programming
@@ -129,6 +131,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Breadth-First Search
 |  |
 | ------- |
