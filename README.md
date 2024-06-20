@@ -74,6 +74,7 @@
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
@@ -116,6 +117,7 @@
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Heap (Priority Queue)
@@ -137,6 +139,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Breadth-First Search
 |  |
 | ------- |
