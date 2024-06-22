@@ -29,6 +29,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -104,6 +106,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
