@@ -77,6 +77,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [1044-find-common-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Tree
 |  |
 | ------- |
