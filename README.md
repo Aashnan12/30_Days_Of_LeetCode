@@ -78,6 +78,7 @@
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Greedy
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [1137-height-checker](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Tree
 |  |
 | ------- |
