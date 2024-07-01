@@ -289,6 +289,7 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -296,6 +297,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
