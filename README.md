@@ -288,6 +288,7 @@
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
