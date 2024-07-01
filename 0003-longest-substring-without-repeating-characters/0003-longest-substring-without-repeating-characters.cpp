@@ -7,7 +7,6 @@ public:
         while(r < n){
             if(mp.find(s[r]) != mp.end() &&  mp[s[r]] >= l){
                 l = mp[s[r]] + 1;
-                mp[s[r]] = r;
             }
             maxlen = max(maxlen,r-l+1);
             mp[s[r]] = r;
