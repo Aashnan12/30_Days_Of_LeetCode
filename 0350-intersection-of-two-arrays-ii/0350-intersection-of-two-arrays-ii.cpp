@@ -10,12 +10,12 @@ public:
         vector<int> res;
         
         for(int i : nums2){
-            if(mp.find(i) != mp.end() && mp[i] > 0){
+            if(mp.find(i) != mp.end()){
                 res.push_back(i);
                 mp[i]--;
-                // if(mp[i] == 0){
-                //     mp.erase(i);
-                // }
+                if(mp[i] == 0){
+                    mp.erase(i);
+                }
             }
         }
         return res;
