@@ -295,6 +295,7 @@
 | [0031-next-permutation](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -339,6 +340,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
