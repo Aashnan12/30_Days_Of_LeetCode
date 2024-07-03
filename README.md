@@ -292,6 +292,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -331,6 +332,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
