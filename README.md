@@ -294,6 +294,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 ## String
@@ -342,4 +344,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
