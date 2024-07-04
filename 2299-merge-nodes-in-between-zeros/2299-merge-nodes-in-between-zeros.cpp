@@ -8,12 +8,13 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-#pragma GCC optimize("Ofast")
-static auto _ = [] () {ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);return 0;}();
 
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
+        ios::sync_with_stdio(0);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
 
         ListNode* dummy = new ListNode(111);
         ListNode* curr = dummy;
