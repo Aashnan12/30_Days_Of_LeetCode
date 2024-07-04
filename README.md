@@ -296,6 +296,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -358,6 +359,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
@@ -371,4 +373,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
