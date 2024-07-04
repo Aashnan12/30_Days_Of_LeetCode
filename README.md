@@ -266,6 +266,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
