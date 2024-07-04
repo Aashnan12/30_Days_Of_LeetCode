@@ -350,4 +350,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
