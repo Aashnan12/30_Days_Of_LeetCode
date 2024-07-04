@@ -1,29 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& arr, vector<int>& nums) {
-        
-        // Push Intervals Lesser than starting of newInterval
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> result;
-        int n = arr.size();
-        int i = 0;
-        while(i<n && arr[i][1] < nums[0]){
-            result.push_back(arr[i]);
-            i++;
-        }
-        
-        // Merge Intervals
-        while(i<n && arr[i][0] <= nums[1]){
-            nums[0] = min(arr[i][0],nums[0]);
-            nums[1] = max(arr[i][1],nums[1]);
-            i++;
-        }
-        result.push_back(nums);
 
-        // Now Push_back rest of intervals
+        int n = intervals.size();
+        
+        int i=0;
+        while(i<n && intervals[i][1] < newInterval[0]){
+            result.push_back(intervals[i]);
+            i++;
+        }
+
+        while(i<n && intervals[i][0] <= newInterval[1]){
+            newInterval[0] = min(newInterval[0],intervals[i][0]);
+            newInterval[1] = max(newInterval[1],intervals[i][1]);
+            i++;
+        }
+
+        result.push_back(newInterval);
 
         while(i<n){
-            result.push_back(arr[i]);
+            result.push_back(intervals[i]);
             i++;
+            
         }
         return result;
     }
