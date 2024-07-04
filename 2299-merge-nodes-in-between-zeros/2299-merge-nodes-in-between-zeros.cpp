@@ -25,9 +25,8 @@ public:
                 curr = newnode;
                 sum = 0;
             }
-            else{
-                sum += head->val;
-            }
+
+            sum += head->val;
             head = head->next;
         }
         return dummy->next;
