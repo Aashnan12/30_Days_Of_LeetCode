@@ -311,6 +311,7 @@
 | [1293-three-consecutive-odds](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +331,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -378,4 +381,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
