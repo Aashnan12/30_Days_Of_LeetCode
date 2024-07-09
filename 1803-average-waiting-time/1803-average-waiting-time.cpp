@@ -1,6 +1,7 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& arr) {
+        ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
         int waiting = 0;
         double ans = 0;
         int n = arr.size();
