@@ -6,7 +6,7 @@ public:
             if(log == "../" && cnt > 0){
                 cnt--;
             }
-            if(log != "../" && log != "./"){
+            else if(log != "../" && log != "./"){
                 cnt++;
             }
         }
