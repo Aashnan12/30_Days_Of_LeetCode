@@ -338,6 +338,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
@@ -393,5 +394,6 @@
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
