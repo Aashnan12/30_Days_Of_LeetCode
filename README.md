@@ -256,6 +256,7 @@
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
 | ------- |
