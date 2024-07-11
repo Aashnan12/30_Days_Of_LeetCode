@@ -314,6 +314,7 @@
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1803-average-waiting-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sliding Window
 |  |
@@ -322,11 +323,13 @@
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -385,6 +388,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -398,4 +402,8 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
