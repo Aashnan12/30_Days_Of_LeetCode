@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Graph
@@ -346,6 +347,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Queue
 |  |
 | ------- |
