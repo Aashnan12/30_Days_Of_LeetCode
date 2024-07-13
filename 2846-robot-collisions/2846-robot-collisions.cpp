@@ -21,7 +21,7 @@ public:
             int currhealth = healths[curridx];
             char currdir = directions[curridx];
 
-            while(!stk.empty() && currhealth > 0 && directions[stk.top()] == 'R' && currdir == 'L') {
+            while (!stk.empty() && currhealth > 0 && directions[stk.top()] == 'R' && currdir == 'L') {
                 int previdx = stk.top();
                 int prevhealth = healths[previdx];
 
