@@ -272,6 +272,7 @@
 | [0056-merge-intervals](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2245-destroying-asteroids](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2245-destroying-asteroids) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -345,6 +346,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -352,6 +354,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0115-distinct-subsequences) |
+| [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -415,6 +418,7 @@
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
