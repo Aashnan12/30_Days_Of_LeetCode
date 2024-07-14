@@ -309,6 +309,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -389,6 +390,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -410,6 +412,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
