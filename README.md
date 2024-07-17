@@ -284,6 +284,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -315,6 +316,7 @@
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -348,6 +350,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [0940-fruit-into-baskets](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -433,4 +436,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+## Binary Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
