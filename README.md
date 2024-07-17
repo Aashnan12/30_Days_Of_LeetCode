@@ -418,6 +418,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -428,4 +429,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
