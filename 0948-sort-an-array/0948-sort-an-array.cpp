@@ -1,47 +1,88 @@
-//Merge sort
+// Heap sort
 class Solution {
 public:
-    void Merge(vector<int>& nums,int s,int mid,int e){
-        int i = s;
-        int j = mid+1;
-        vector<int> arr(e-s+1);
-        int idx = 0;
+    void BuildHeap(vector<int>& nums,int parent,int n){
+        int maxi = parent;
+        int c1 = parent*2 + 1;
+        int c2 = parent*2 + 2;
 
-        while(i <= mid && j <= e){
-            if(nums[i] <= nums[j]){
-                arr[idx++] = nums[i++];
-            }
-            else{
-                arr[idx++] = nums[j++];
-            }
+        if(c1 < n && nums[maxi] < nums[c1]){
+            maxi = c1;
+        }
+        if(c2 < n && nums[maxi] < nums[c2]){
+            maxi = c2;
         }
 
-        while(i<=mid){
-            arr[idx++] = nums[i++];
+        if(parent != maxi){
+            swap(nums[maxi],nums[parent]);
+            BuildHeap(nums,maxi,n);
         }
-        while(j<=e){
-            arr[idx++] = nums[j++];
-        }
-        for(int a = s; a <= e; a++){
-            nums[a] = arr[a-s]; 
-        }
-        return;
     }
-    void MergeSort(vector<int>& nums,int s,int e){
-        if(s >= e){
-            return;
+    void Heapify(vector<int>& nums,int n){
+        for(int i=n/2-1; i>=0 ;i--){
+            BuildHeap(nums,i,n);
         }
-        int mid = s + (e-s)/2;
-        MergeSort(nums,s,mid);
-        MergeSort(nums,mid+1,e);
-        Merge(nums,s,mid,e);
-        return;
+    }
+    void HeapSort(vector<int>& nums,int n){
+        Heapify(nums,n);
+        int size = n-1;
+        while(size > 0){
+            swap(nums[0],nums[size]);
+            BuildHeap(nums,0,size);
+            size--;
+        }
     }
     vector<int> sortArray(vector<int>& nums) {
-        MergeSort(nums,0,nums.size()-1);
+        HeapSort(nums,nums.size());
         return nums;
     }
 };
+
+
+//Merge sort
+// class Solution {
+// public:
+//     void Merge(vector<int>& nums,int s,int mid,int e){
+//         int i = s;
+//         int j = mid+1;
+//         vector<int> arr(e-s+1);
+//         int idx = 0;
+
+//         while(i <= mid && j <= e){
+//             if(nums[i] <= nums[j]){
+//                 arr[idx++] = nums[i++];
+//             }
+//             else{
+//                 arr[idx++] = nums[j++];
+//             }
+//         }
+
+//         while(i<=mid){
+//             arr[idx++] = nums[i++];
+//         }
+//         while(j<=e){
+//             arr[idx++] = nums[j++];
+//         }
+//         for(int a = s; a <= e; a++){
+//             nums[a] = arr[a-s]; 
+//         }
+//         return;
+//     }
+//     void MergeSort(vector<int>& nums,int s,int e){
+//         if(s >= e){
+//             return;
+//         }
+//         int mid = s + (e-s)/2;
+//         MergeSort(nums,s,mid);
+//         MergeSort(nums,mid+1,e);
+//         Merge(nums,s,mid,e);
+//         return;
+//     }
+//     vector<int> sortArray(vector<int>& nums) {
+//         MergeSort(nums,0,nums.size()-1);
+//         return nums;
+//     }
+// };
 
 //Quick Sort
 // class Solution {
