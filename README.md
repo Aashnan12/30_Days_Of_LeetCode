@@ -263,6 +263,7 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1916-find-center-of-star-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -385,6 +386,7 @@
 | [0115-distinct-subsequences](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
@@ -472,4 +474,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
