@@ -24,44 +24,44 @@
 // };
 
 // Heap sort
-// class Solution {
-// public:
-//     void BuildHeap(vector<int>& nums, int parent, int n) {
-//         int maxi = parent;
-//         int c1 = parent * 2 + 1;
-//         int c2 = parent * 2 + 2;
+class Solution {
+public:
+    void BuildHeap(vector<int>& nums, int parent, int n) {
+        int maxi = parent;
+        int c1 = parent * 2 + 1;
+        int c2 = parent * 2 + 2;
 
-//         if (c1 < n && nums[maxi] < nums[c1]) {
-//             maxi = c1;
-//         }
-//         if (c2 < n && nums[maxi] < nums[c2]) {
-//             maxi = c2;
-//         }
+        if (c1 < n && nums[maxi] < nums[c1]) {
+            maxi = c1;
+        }
+        if (c2 < n && nums[maxi] < nums[c2]) {
+            maxi = c2;
+        }
 
-//         if (parent != maxi) {
-//             swap(nums[maxi], nums[parent]);
-//             BuildHeap(nums, maxi, n);
-//         }
-//     }
-//     void Heapify(vector<int>& nums, int n) {
-//         for (int i = n / 2 - 1; i >= 0; i--) {
-//             BuildHeap(nums, i, n);
-//         }
-//     }
-//     void HeapSort(vector<int>& nums, int n) {
-//         Heapify(nums, n);
-//         int size = n - 1;
-//         while (size > 0) {
-//             swap(nums[0], nums[size]);
-//             BuildHeap(nums, 0, size);
-//             size--;
-//         }
-//     }
-//     vector<int> sortArray(vector<int>& nums) {
-//         HeapSort(nums, nums.size());
-//         return nums;
-//     }
-// };
+        if (parent != maxi) {
+            swap(nums[maxi], nums[parent]);
+            BuildHeap(nums, maxi, n);
+        }
+    }
+    void Heapify(vector<int>& nums, int n) {
+        for (int i = n / 2 - 1; i >= 0; i--) {
+            BuildHeap(nums, i, n);
+        }
+    }
+    void HeapSort(vector<int>& nums, int n) {
+        Heapify(nums, n);
+        int size = n - 1;
+        while (size > 0) {
+            swap(nums[0], nums[size]);
+            BuildHeap(nums, 0, size);
+            size--;
+        }
+    }
+    vector<int> sortArray(vector<int>& nums) {
+        HeapSort(nums, nums.size());
+        return nums;
+    }
+};
 
 // Merge sort
 //  class Solution {
@@ -109,36 +109,36 @@
 // };
 
 // Quick Sort
- class Solution {
- public:
-     int partition(vector<int>& nums,int s,int e){
-         int i = s;
-         int j = e;
-         int pivot = nums[s];
+//  class Solution {
+//  public:
+//      int partition(vector<int>& nums,int s,int e){
+//          int i = s;
+//          int j = e;
+//          int pivot = nums[s];
 
-        while(i<j){
-            while(i<e && nums[i] <= pivot) i++;
-            while(j>s && nums[j] > pivot) j--;
+//         while(i<j){
+//             while(i<e && nums[i] <= pivot) i++;
+//             while(j>s && nums[j] > pivot) j--;
 
-            if(i<j){
-                swap(nums[i],nums[j]);
-            }
-        }
+//             if(i<j){
+//                 swap(nums[i],nums[j]);
+//             }
+//         }
 
-        swap(nums[s],nums[j]);
-        return j;
-    }
-    void QuickSort(vector<int>& nums,int s,int e){
-        if(s >= e){
-            return;
-        }
-        int j = partition(nums,s,e);
-        QuickSort(nums,s,j-1);
-        QuickSort(nums,j+1,e);
-        return;
-    }
-    vector<int> sortArray(vector<int>& nums) {
-        QuickSort(nums,0,nums.size()-1);
-        return nums;
-    }
-};
+//         swap(nums[s],nums[j]);
+//         return j;
+//     }
+//     void QuickSort(vector<int>& nums,int s,int e){
+//         if(s >= e){
+//             return;
+//         }
+//         int j = partition(nums,s,e);
+//         QuickSort(nums,s,j-1);
+//         QuickSort(nums,j+1,e);
+//         return;
+//     }
+//     vector<int> sortArray(vector<int>& nums) {
+//         QuickSort(nums,0,nums.size()-1);
+//         return nums;
+//     }
+// };
