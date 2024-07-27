@@ -365,6 +365,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -386,6 +387,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
