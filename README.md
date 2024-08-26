@@ -289,6 +289,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0337-house-robber-iii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -447,6 +448,7 @@
 | [0155-min-stack](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -463,6 +465,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0337-house-robber-iii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
