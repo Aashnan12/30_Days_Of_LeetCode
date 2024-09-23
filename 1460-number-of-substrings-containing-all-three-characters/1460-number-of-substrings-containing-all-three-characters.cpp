@@ -11,21 +11,39 @@ public:
         // }
         // return cnt;
 
-        int left = 0;
+        // int left = 0;
+        // int n = s.size();
+        // int right = 0;
+        // unordered_map<char,int> mp;
+        // int cnt = 0;
+        // while(right < n){
+        //     mp[s[right]]++;
+        //     while(mp.size() == 3){
+        //         cnt += n - right;
+        //         mp[s[left]]--;
+        //         if(mp[s[left]] == 0) {
+        //             mp.erase(s[left]);
+        //         }
+        //         left++;
+        //     }
+        //     right++;
+        // }
+        // return cnt;
+
         int n = s.size();
+        int left = 0;
         int right = 0;
-        unordered_map<char,int> mp;
+        vector<int> seen(3,0);
         int cnt = 0;
+
         while(right < n){
-            mp[s[right]]++;
-            while(mp.size() == 3){
-                cnt += n - right;
-                mp[s[left]]--;
-                if(mp[s[left]] == 0) {
-                    mp.erase(s[left]);
-                }
+            seen[s[right] - 'a']++;
+
+            while(seen[0] && seen[1] && seen[2]){
+                seen[s[left] - 'a']--;
                 left++;
             }
+            cnt += left;
             right++;
         }
         return cnt;
