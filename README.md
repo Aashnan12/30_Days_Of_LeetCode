@@ -344,6 +344,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3541-report-spam-message](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3541-report-spam-message) |
 ## Sliding Window
 |  |
 | ------- |
@@ -373,6 +374,7 @@
 | [1217-relative-sort-array](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3541-report-spam-message](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3541-report-spam-message) |
 ## String
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3541-report-spam-message](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3541-report-spam-message) |
 ## Binary Search
 |  |
 | ------- |
