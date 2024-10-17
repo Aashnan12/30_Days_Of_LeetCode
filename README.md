@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2245-destroying-asteroids](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2245-destroying-asteroids) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -336,6 +337,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1803-average-waiting-time) |
 | [2245-destroying-asteroids](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2245-destroying-asteroids) |
@@ -423,6 +425,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
