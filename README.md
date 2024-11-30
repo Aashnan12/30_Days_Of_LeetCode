@@ -384,6 +384,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0115-distinct-subsequences) |
+| [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0726-number-of-atoms](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -436,6 +437,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1803-average-waiting-time) |
@@ -451,6 +453,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
+| [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2645-pass-the-pillow) |
