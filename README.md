@@ -323,6 +323,7 @@
 | [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -455,6 +456,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
@@ -522,4 +524,12 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
