@@ -451,12 +451,14 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0342-power-of-four) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
@@ -532,4 +534,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
