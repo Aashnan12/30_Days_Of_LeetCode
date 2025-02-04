@@ -263,6 +263,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0207-course-schedule) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -291,6 +292,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0337-house-robber-iii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -300,10 +302,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
