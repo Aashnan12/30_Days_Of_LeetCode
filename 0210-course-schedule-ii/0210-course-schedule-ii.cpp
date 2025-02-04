@@ -1,18 +1,14 @@
-#pragma GCC optimize("Ofast")
-static auto _ = [] () {ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);return 0;}();
-
 class Solution {
 public:
-    vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
-        unordered_map<int,vector<int>> map;
-        vector<int> indegree(n,0);
-
-        for(vector<int> &v : prerequisites){
-            map[v[1]].push_back(v[0]);
+    vector<int> findOrder(int n, vector<vector<int>>& pre) {
+        unordered_map<int,vector<int>> mp;
+        for(auto p : pre){
+            mp[p[1]].push_back(p[0]);
         }
+        vector<int> indegree(n+1,0);
         for(int i=0;i<n;i++){
-            for(int &v : map[i]){
-                indegree[v]++;
+            for(int &u : mp[i]){
+                indegree[u]++;
             }
         }
         queue<int> q;
@@ -21,24 +17,18 @@ public:
                 q.push(i);
             }
         }
-        vector<int> topoSort;
-        int courses = 0;
-
+        vector<int> ans;
         while(!q.empty()){
-            int u = q.front();
+            int v = q.front();
             q.pop();
-            courses++;
-            topoSort.push_back(u);
-            for(int &v : map[u]){
-                indegree[v]--;
-                if(indegree[v] == 0){
-                    q.push(v);
+            ans.push_back(v);
+            for(int &u : mp[v]){
+                indegree[u]--;
+                if(indegree[u] == 0){
+                    q.push(u);
                 }
             }
         }
-        if(courses == n){
-            return topoSort;
-        }
-        return {};
+        return ans;
     }
 };
