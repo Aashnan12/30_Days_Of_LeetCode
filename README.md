@@ -400,6 +400,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3541-report-spam-message](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/3541-report-spam-message) |
 ## Binary Search
 |  |
@@ -452,6 +453,7 @@
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1803-average-waiting-time) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2846-robot-collisions) |
@@ -483,6 +485,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2846-robot-collisions](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/2846-robot-collisions) |
 ## Queue
 |  |
