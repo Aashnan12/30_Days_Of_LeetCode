@@ -449,6 +449,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/1642-water-bottles) |
@@ -468,6 +469,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -545,6 +547,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
