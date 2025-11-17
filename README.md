@@ -421,6 +421,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0118-pascals-triangle) |
@@ -470,6 +471,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0342-power-of-four) |
@@ -554,4 +556,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0342-power-of-four) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aashnan12/30_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
